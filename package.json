@@ -1,0 +1,22 @@
+{
+  "name": "happybearsdb",
+  "version": "1.0.0",
+  "description": "happy bears database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliezerwohl/happyBearsDB.git"
+  },
+  "author": "elie wohl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliezerwohl/happyBearsDB/issues"
+  },
+  "homepage": "https://github.com/eliezerwohl/happyBearsDB#readme",
+  "dependencies": {
+    "mysql": "^2.10.2"
+  }
+}
